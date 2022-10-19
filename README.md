@@ -7,7 +7,7 @@ I ❤ Open Source.
 * [Blog](https://CanftIn.com)
 
 ![CanftIn's github stats1](https://github-readme-stats.vercel.app/api?username=canftin&show_icons=true&theme=radical&count_private=true)
-
+![Metrics](/github-metrics.svg)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canftin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
