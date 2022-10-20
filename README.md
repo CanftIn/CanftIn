@@ -2,12 +2,17 @@
 
 I ❤ Open Source.
 
-* C++/Python
-* focus on compiler and db developing.
-* [Blog](https://CanftIn.com)
+* 🌟 Mainly C++/Python Programmer. Go/Rust/Scala/Clojure in the attempt.
+* 🌱 I'm currently focus on learning compiler and db developing.
+* 💬 [CanftIn's Blog](https://CanftIn.com)
+* 🍚 [Collection of my toy projects](https://github.com/ixxchan).
 
-![CanftIn's github stats1](https://github-readme-stats.vercel.app/api?username=canftin&show_icons=true&theme=radical&count_private=true)
+
 ![Metrics](/github-metrics.svg)
+
 <!--
+![CanftIn's github stats1](https://github-readme-stats.vercel.app/api?username=canftin&show_icons=true&theme=radical&count_private=true)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canftin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
