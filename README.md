@@ -7,8 +7,8 @@ I ❤ Open Source.
 * 💬 [CanftIn's Blog](https://CanftIn.com)
 * 🍚 [Collection of my toy projects](https://github.com/ixxchan).
 
-
-![Metrics](/github-metrics.svg)
+[<img align="left" width="390" alt="🦑" src="/general.svg">](#)
+[<img align="right" width="390" alt="🦑" src="/achievements.svg">](#)
 
 <!--
 ![CanftIn's github stats1](https://github-readme-stats.vercel.app/api?username=canftin&show_icons=true&theme=radical&count_private=true)
