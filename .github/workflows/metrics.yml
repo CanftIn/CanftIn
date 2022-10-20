@@ -48,6 +48,8 @@ jobs:
         with:
           filename: achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          user: canftin
+          org: MatrixWood, modern-lambda, Eros-Engine, SummerDB, pud-lang, HybridQuanta
           base: ""
           config_order: base.header, isocalendar, languages
           plugin_achievements: yes
