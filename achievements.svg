@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 63.5mb of code in 1278 edited files across 455 commits</small>
+                <small>estimation from 63.5mb of code in 1278 edited files across 456 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="419.9500372093285" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="419.9500372093285" y="0" width="29.767237585081734" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="449.7172747944103" y="0" width="10.28272520558975" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="420.04841712872945" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="420.04841712872945" y="0" width="29.694116457611145" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="449.7425335863406" y="0" width="10.257466413659397" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,9 +36,9 @@
                                 C++
                             </div>
                             <small>
-                                <div>32.5k lines</div>
-                                <div>972 kB</div>
-                                <div>91.29%</div>
+                                <div>32.6k lines</div>
+                                <div>975 kB</div>
+                                <div>91.31%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -51,7 +51,7 @@
                             <small>
                                 <div>2.75k lines</div>
                                 <div>68.9 kB</div>
-                                <div>6.47%</div>
+                                <div>6.46%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -64,7 +64,7 @@
                             <small>
                                 <div>973 lines</div>
                                 <div>23.8 kB</div>
-                                <div>2.24%</div>
+                                <div>2.23%</div>
                             </small>
                         </div>
                     </section>
@@ -377,7 +377,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="20.150000000000002 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="20.666666666666668 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -395,10 +395,10 @@
                                     <span class="prefix">Great</span>
                                     follower
                                     <div class="value-wrapper">
-                                        <div class="value">239</div>
+                                        <div class="value">240</div>
                                     </div>
                                 </div>
-                                <div class="text">Following 239 users</div>
+                                <div class="text">Following 240 users</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -799,7 +799,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
