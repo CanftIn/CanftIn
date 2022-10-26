@@ -10,9 +10,9 @@ I ❤ Open Source.
 <h4>
 
 ```cpp
-template<typename ... T> struct Description {};
+template<typename... T> struct Description {};
 
-template<typename Flag, typename ... T>
+template<typename Flag, typename... T>
 struct Description<Flag, T...> {
   using Similar = Flag;
   using Decline = Description<T...>;
@@ -20,18 +20,12 @@ struct Description<Flag, T...> {
 
 class Cpp; class Python; class Compiler; class DB; class Developer;
 using CanftIn = Description<Cpp, Python, Compiler, DB, Developer>;
-
-template<class T1, class T2> struct StaticCheckEQ;
-template<class T> struct StaticCheckEQ<T, T> {};
-
-StaticCheckEQ<CanftIn::Similar, Cpp>();
-StaticCheckEQ<CanftIn::Decline::Similar, Python>();
 ```
 
 </h4>
 
-[<img align="left" width="390" height=660 alt="🦑" src="/general.svg">](#)
-[<img align="right" width="390" height=730 alt="🦑" src="/achievements.svg">](#)
+[<img align="left" width="390" alt="🦑" src="/general.svg">](#)
+[<img align="right" width="390" alt="🦑" src="/achievements.svg">](#)
 
 <!--
 ![CanftIn's github stats1](https://github-readme-stats.vercel.app/api?username=canftin&show_icons=true&theme=radical&count_private=true)
