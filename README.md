@@ -6,13 +6,12 @@ I ❤ Open Source.
 * 🌱 I'm currently focus on learning compiler and db developing.
 * 💬 [CanftIn's Blog](https://CanftIn.com)
 * 🍚 [Collection of my toy projects](https://github.com/MatrixWood).
-
 <h4>
 
 ```cpp
-template<typename... T> struct Description {};
+template <typename... T> struct Description {};
 
-template<typename Flag, typename... T>
+template <typename Flag, typename... T>
 struct Description<Flag, T...> {
   using Similar = Flag;
   using Decline = Description<T...>;
@@ -21,7 +20,6 @@ struct Description<Flag, T...> {
 class Cpp; class Python; class Compiler; class DB; class Developer;
 using CanftIn = Description<Cpp, Python, Compiler, DB, Developer>;
 ```
-
 </h4>
 
 [<img align="left" width="390" alt="🦑" src="/general.svg">](#)
