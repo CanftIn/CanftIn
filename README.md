@@ -6,6 +6,7 @@ I ❤ Open Source.
 * 🌱 I'm currently focus on learning compiler and db developing.
 * 💬 [CanftIn's Blog](https://CanftIn.com)
 * 🍚 [Collection of my toy projects](https://github.com/MatrixWood).
+* 📃 My Resume: If you have opportunity, there is my Wechat ID: <code>echo -n 'd3djX2Nhbg==' | base64 -d</code>
 <h4>
 
 ```cpp
