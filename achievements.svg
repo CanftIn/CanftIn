@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 63.6mb of code in 1324 edited files across 493 commits</small>
+                <small>estimation from 63.6mb of code in 1332 edited files across 499 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="422.25292167100207" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="422.25292167100207" y="0" width="28.05561280131045" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="450.30853447231254" y="0" width="9.691465527687438" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="423.5345626057385" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="423.5345626057385" y="0" width="27.103029888750278" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="450.63759249448873" y="0" width="9.362407505511218" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,9 +36,9 @@
                                 C++
                             </div>
                             <small>
-                                <div>34.4k lines</div>
-                                <div>1.04 MB</div>
-                                <div>91.79%</div>
+                                <div>35.6k lines</div>
+                                <div>1.08 MB</div>
+                                <div>92.07%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -51,7 +51,7 @@
                             <small>
                                 <div>2.75k lines</div>
                                 <div>68.9 kB</div>
-                                <div>6.1%</div>
+                                <div>5.89%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -64,7 +64,7 @@
                             <small>
                                 <div>973 lines</div>
                                 <div>23.8 kB</div>
-                                <div>2.11%</div>
+                                <div>2.04%</div>
                             </small>
                         </div>
                     </section>
@@ -194,7 +194,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="26.97 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="27.279999999999998 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -213,10 +213,10 @@
                                     <span class="prefix">Master</span>
                                     stargazer
                                     <div class="value-wrapper">
-                                        <div class="value">1261</div>
+                                        <div class="value">1264</div>
                                     </div>
                                 </div>
-                                <div class="text">Starred 1261 repositories</div>
+                                <div class="text">Starred 1264 repositories</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -308,7 +308,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.04243668720054705 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -811,7 +811,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #6023F8">Your fortune: Outlook good</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
