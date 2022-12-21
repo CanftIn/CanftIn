@@ -7,21 +7,6 @@ I ❤ Open Source.
 * 💬 [CanftIn's Blog](https://CanftIn.com)
 * 🍚 [Collection of my toy projects](https://github.com/MatrixWood).
 * 📃 My Resume: If you have opportunity, there is my Wechat ID: <code>echo -n 'd3djX2Nhbg==' | base64 -d</code>
-<h4>
-
-```cpp
-template <typename... T> struct Description {};
-
-template <typename Flag, typename... T>
-struct Description<Flag, T...> {
-  using Similar = Flag;
-  using Decline = Description<T...>;
-};
-
-class Cpp; class Python; class Compiler; class DB; class Developer;
-using CanftIn = Description<Cpp, Python, Compiler, DB, Developer>;
-```
-</h4>
 
 [<img align="left" width="390" alt="🦑" src="/general.svg">](#)
 [<img align="right" width="390" alt="🦑" src="/achievements.svg">](#)

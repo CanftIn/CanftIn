@@ -52,8 +52,8 @@ jobs:
           organization: MatrixWood, modern-lambda, Eros-Engine, SummerDB, pud-lang, HybridQuanta
           base: ""
           config_order: base.header, isocalendar, languages
-          plugin_achievements: yes
-          plugin_achievements_display: compact
+          #plugin_achievements: yes
+          #plugin_achievements_display: compact
           plugin_fortune: yes
           plugin_notable: yes
           plugin_notable_from: all
