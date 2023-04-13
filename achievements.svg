@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 88.6mb of code in 8505 edited files across 1001 commits</small>
+                <small>estimation from 88.8mb of code in 8610 edited files across 1024 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="178.62066923604647" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="178.62066923604647" y="0" width="153.37117539192263" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="331.99184462796916" y="0" width="128.0081553720309" height="8" fill="#199f4b"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="187.53376159573452" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="187.53376159573452" y="0" width="148.51292426213763" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="336.04668585787215" y="0" width="123.95331414212784" height="8" fill="#199f4b"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,9 +36,9 @@
                                 C++
                             </div>
                             <small>
-                                <div>68.2k lines</div>
-                                <div>1.99 MB</div>
-                                <div>38.83%</div>
+                                <div>73.3k lines</div>
+                                <div>2.16 MB</div>
+                                <div>40.77%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -51,7 +51,7 @@
                             <small>
                                 <div>63.1k lines</div>
                                 <div>1.71 MB</div>
-                                <div>33.34%</div>
+                                <div>32.29%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -64,7 +64,7 @@
                             <small>
                                 <div>26k lines</div>
                                 <div>1.43 MB</div>
-                                <div>27.83%</div>
+                                <div>26.95%</div>
                             </small>
                         </div>
                     </section>
@@ -194,7 +194,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
+                            <b style="color: #2A56FB">Your fortune: Better not tell you now</b>
                         </div>
                     </section>
                 </div>
