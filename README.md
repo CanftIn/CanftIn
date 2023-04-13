@@ -1,15 +1,15 @@
-### Hey 👋, This is CanftIn.
-
 <img align="right" width="390" alt="🦑" src="/general.svg">
+
+### Hey 👋, This is CanftIn.
 
 I ❤ Open Source.
 
 * 🌟 I'm primarily a C++/Python programmer. Other oop/functional programming languages are also being tried.
 * 🌱 I'm currently focused on compiler and database development.
-* 👨‍💻 I have two years of C++ backend development experience and one year of compiler development experience (aiming at DSL and embedded language compiler and clang/LLVM).
+* 👨‍💻 I have two years of C++ backend development experience and one year of compiler development experience (aiming at DSL/embedded language compiler and clang/LLVM).
 * 💬 [My Blog](https://canftin.github.io).
 * 🤔 [Collection of my toy projects](https://github.com/MatrixWood).
-* 💡 [jm's research](https://github.com/jm-research): this organize incubate the projects I researched.
+* 💡 [jm's research](https://github.com/jm-research): this organize incubates the projects I researched.
 * 📃 My Resume: If you have opportunity, there is my Wechat ID: <code>echo -n 'd3djX2Nhbg==' | base64 -d</code>，you can contact me.
 
 <!--
