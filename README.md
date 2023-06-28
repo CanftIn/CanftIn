@@ -1,6 +1,6 @@
 <img align="right" width="390" alt="🦑" src="/general.svg">
 
-### Hey 👋, This is CanftIn.
+### Hey 👋, This is CanftIn. I ❤ Open Source.
 
 ![LLVM](https://img.shields.io/badge/LLVM-262D3A.svg?style=flat-square&logo=LLVM&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -13,8 +13,6 @@
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=flat-square&logo=gnu-emacs&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-
-I ❤ Open Source.
 
 * 🌟 I'm primarily a C++/Python programmer. Sometimes also Try other mainstream programming languages.
 * 🌱 I'm currently focused on compiler and database development.
