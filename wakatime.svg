@@ -61,23 +61,8 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">workspace</span>
-                                <div class="bar" style="width: 67.264%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">84%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">llvm-project</span>
-                                <div class="bar" style="width: 6.4959999999999996%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">carbon-lang</span>
-                                <div class="bar" style="width: 5.696%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">7%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">codon</span>
-                                <div class="bar" style="width: 0.544%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
+                                <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">100%</span>
                             </div>
                         </div>
                     </section>
@@ -86,13 +71,8 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C++</span>
-                                <div class="bar" style="width: 73.50399999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">92%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">C</span>
-                                <div class="bar" style="width: 6.4959999999999996%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
+                                <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">100%</span>
                             </div>
                         </div>
                     </section>
