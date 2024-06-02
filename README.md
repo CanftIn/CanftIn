@@ -17,12 +17,12 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 
-* 🌟 I'm primarily a C++/Python programmer. Rust/Haskell/Go/Clojure/Typescript... relatively less.
-* 🌱 I'm currently focused on compiler and database development. Do some front-end/web back-end/ios developing in my spare time. Intended to become a full-stack programmer.
-* 👨‍💻 I have one and a half years of compiler development experience (DSL/Clang/LLVM) and two years of C++/Python backend development experience and more than eight years of programming training.
+* 🌟 I'm primarily a **C++/Python** programmer. Rust/Haskell/Go/Clojure/Typescript... relatively less.
+* 🌱 I'm currently focused on **compiler(include traditional language design(frontend) and AI model compiler(backend))** and database(as a plus) development. Do some front-end/web back-end/ios developing in my spare time. Intended to become a full-stack programmer.
+* 👨‍💻 I have 2 years of compiler development experience (DSL/Clang/LLVM/AI) and 2.2 years of C++/Python backend development experience and more than eight years of programming training.
 * 💬 [My Blog](https://canftin.github.io).
 * 💡 [jm's research](https://github.com/jm-research): this organize incubates the projects I researched. Or some [toy projects](https://github.com/MatrixWood).
-* 📃 My Resume: There is my [Resume](./resume.pdf)(temporary removed). If you have opportunity, there is my Wechat ID: <code>echo -n 'd3djX2Nhbg==' | base64 -d</code>，you can contact me.
+* 📃 My Resume: There is my [Resume](./resume.pdf)<!--(temporary removed)-->. If you have opportunity, there is my Wechat ID: <code>echo -n 'd3djX2Nhbg==' | base64 -d</code>，you can contact me.
 
 <!--
 ![CanftIn's github stats1](https://github-readme-stats.vercel.app/api?username=canftin&show_icons=true&theme=radical&count_private=true)
