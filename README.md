@@ -22,7 +22,7 @@
 * 👨‍💻 I have 2 years of compiler development experience (DSL/Clang/LLVM/AI) and 2.2 years of C++/Python backend development experience and more than eight years of programming training.
 * 💬 [My Blog](https://canftin.github.io).
 * 💡 [jm's research](https://github.com/jm-research): this organize incubates the projects I researched. Or some [toy projects](https://github.com/MatrixWood).
-* 📃 My Resume: There is my [Resume](./resume.pdf)<!--(temporary removed)-->. If you have opportunity, there is my Wechat ID: <code>echo -n 'd3djX2Nhbg==' | base64 -d</code>，you can contact me.
+* 📃 My Resume: There is my [Resume](./resume.pdf)(temporary removed). If you have opportunity, there is my Wechat ID: <code>echo -n 'd3djX2Nhbg==' | base64 -d</code>，you can contact me.
 
 <!--
 ![CanftIn's github stats1](https://github-readme-stats.vercel.app/api?username=canftin&show_icons=true&theme=radical&count_private=true)
