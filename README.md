@@ -19,7 +19,7 @@
 
 * 🌟 I'm primarily a **C++/Python** programmer. Rust/Haskell/Go/Clojure/Typescript... relatively less.
 * 🌱 I'm currently focused on **compiler(include traditional language design(frontend) and AI model compiler(backend))** and database(as a plus) development. Do some front-end/web back-end/ios developing in my spare time. Intended to become a full-stack programmer.
-* 👨‍💻 I have 3 years of compiler development experience (DSL/Clang/LLVM/AI) and 2.2 years of C++/Python backend development experience and more than eight years of programming training.
+* 👨‍💻 I have 3 years of compiler development experience (DSL/Clang/LLVM/MLIR/AI) and 2.2 years of C++/Python backend development experience and more than eight years of programming training.
 * 💬 [My Blog](https://canftin.github.io).
 * 💡 [jm's research](https://github.com/jm-research): this organize incubates the projects I researched. Or some [toy projects](https://github.com/MatrixWood).
 * 📃 My Resume: There is my [Resume](./resume.pdf)(temporary removed). If you have opportunity, there is my Wechat ID: <code>echo -n 'd3djX2Nhbg==' | base64 -d</code>，you can contact me.
